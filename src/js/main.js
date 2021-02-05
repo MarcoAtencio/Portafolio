@@ -1,3 +1,7 @@
+import "../css/normalize.css"
+import "../css/style.css"
+import "../css/animation.css"
+
 // variables
 let nav = document.getElementById('nav-');
 
