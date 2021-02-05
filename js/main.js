@@ -1,0 +1,1 @@
+(self.webpackChunka=self.webpackChunka||[]).push([[179],{693:()=>{"use strict";let e=document.getElementById("nav-");window.addEventListener("scroll",(function(){window.pageYOffset<=100?(e.classList.remove="nav-2",e.className="nav",e.style.transition="1s"):(e.className="nav nav-2",e.style.transition="0.7s")}))}},0,[[693,666]]]);
