@@ -20,5 +20,4 @@ _Datos personales y proyectos realizados_
 * npm start (para generar un servidor local)
 
 
-
 ⌨️ con ❤️ por [Marco Atencio](https://github.com/Darkil-HS)
