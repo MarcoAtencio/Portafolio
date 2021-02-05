@@ -1,4 +1,4 @@
-# 🚀  Portafolio
+# 🚀  Portafolio 2019
 _Datos personales y proyectos realizados_
 
 ## Contenido 📦
@@ -10,7 +10,8 @@ _Datos personales y proyectos realizados_
 ### Tecnologias usadas 📄
 * Html5
 * Css3
-* Java Script
-
+* JavaScript
+* Webpack
+* npm
 
 ⌨️ con ❤️ por [Marco Atencio](https://github.com/Darkil-HS)
