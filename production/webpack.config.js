@@ -9,7 +9,6 @@ const CopyPlugin = require('copy-webpack-plugin');
 const config = {
   mode: 'production',
   entry: {
-    'jquery' : path.resolve(__dirname, '../src/js/jquery.js'),
     'main' : path.resolve(__dirname, '../src/js/main.js'),
     'efecto' : path.resolve(__dirname, '../src/js/efecto.js'),
     'filtro' : path.resolve(__dirname, '../src/js/filtro.js'),  
